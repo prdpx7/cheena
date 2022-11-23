@@ -1,5 +1,4 @@
-# SQLite
-> Building SQLite database from scratch in Go
+# Cheena
+> Building Key-Value in memory database from scratch in Go
 
 ## References
-https://www.sqlite.org/arch.html 
